@@ -1,0 +1,3 @@
+[submodule "src/DirectX-Headers"]
+	path = src/DirectX-Headers
+	url = git@github.com:microsoft/DirectX-Headers.git
